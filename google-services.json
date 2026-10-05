@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "858127840282",
+    "project_id": "syncup-ac483",
+    "storage_bucket": "syncup-ac483.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858127840282:android:f7763dd259df153d684da3",
+        "android_client_info": {
+          "package_name": "com.syncup.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858127840282-32nsdm0hlefulkt2qd7u284di89njvbj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.syncup.mobile",
+            "certificate_hash": "5212a8e286f63b5a0cd041a2388a001de5b8e682"
+          }
+        },
+        {
+          "client_id": "858127840282-ci2env53vmruiav370vr34enild6f6nf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.syncup.mobile",
+            "certificate_hash": "55e43e49d0cd44fef1d823b32827b7eeb02a5588"
+          }
+        },
+        {
+          "client_id": "858127840282-qbeaejndq7v4vphiodl1srpsjd3cpupk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.syncup.mobile",
+            "certificate_hash": "ec1f5c9e8399c393ee694899b99e5d141171f55e"
+          }
+        },
+        {
+          "client_id": "858127840282-caci3om6afl6h9eek1e9ijq0knta8jth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVmwsJA7dcDcLl5bCkkXZhYCpN-bm4Vhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858127840282-caci3om6afl6h9eek1e9ijq0knta8jth.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "858127840282-8f64gvgcucb4dtg31qg95rd9rb0dgs5f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.syncup.mobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
